@@ -11,13 +11,11 @@ This question did require me to think a lot and finally after doing some rough w
 2. **Max Dot Product Of two Subsequence - Weekly Contest 190 Leetcode<br/>**
 Question - [Max Dot Product Of two Subsequence](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)<br/>
 This problem looks complex on first view, but with a Dynamic Programming approach this problem becomes easy. This requires us to maximize the dot product and so DP seemed a suitable option for this problem.
-
 <br/>[Solution](./dpMaxSum-Leetcode.py)<br/>
 
 3. **Roads in Chefland - May Cook-Off 2020 CodeChef | COOK118B<br/>**
 Question - [Roads in Chefland](https://www.codechef.com/COOK118B/problems/CROADS)<br/>
 This problem is more of mathematics and pattern analysis. After which the time complexity of code reduces to O(log(n)).
-
 <br/>[Solution](./croads-codechef.py)<br/>
 
 > I have the Question link inside each code file also.
