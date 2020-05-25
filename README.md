@@ -2,7 +2,7 @@
 This is the right place for some cool code dumps, which i have solved on various coding platforms.
 <hr>
 
-1. **Triple Sort - May Long Chellenge 2020 Codechef | MAY20 <br/>**
+1. **Triple Sort - May Long Challenge 2020 Codechef | MAY20 <br/>**
 Question - [Triple Sort](https://www.codechef.com/MAY20B/problems/TRPLSRT)<br/>
 Most of you might have done the code for - _Minimum swaps to sort an array_. This question is bit different as if requires us to take 3 index at a time i,j and k(might not be ordered) and perform right shift on i, j, k. **Doing triple sort we need to tell if an given array can be sorted in m(input) times and also print your choice of triplets**. <br/>
 This question did require me to think a lot and finally after doing some rough work i could think of a logic to do this and showed a pattern so finding the triplets also became easier.
