@@ -18,4 +18,9 @@ Question - [Roads in Chefland](https://www.codechef.com/COOK118B/problems/CROADS
 This problem is more of mathematics and pattern analysis. After which the time complexity of code reduces to O(log(n)).
 <br/>[Solution](./croads-codechef.py)<br/>
 
-> I have the Question link inside each code file also.
+4. **The Tom and Jerry Game - June Long Challenge 2020 CodeChef | JUNE20B<br/>**
+Question - [The Tom and Jerry Game](https://www.codechef.com/JUNE20B/problems/EOEO)<br/>
+The problem requires a small analysis and we can then code it in O(log(n)).
+<br/>[Solution](./eoeo-codechef.py)<br/>
+
+> The Question link is inside each code file also.
